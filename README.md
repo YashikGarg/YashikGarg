@@ -10,6 +10,8 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
 
 # ğŸ› âš™ Favorite Tech
 
+<br>
+
 > Tools, languages, and other things that I like to work with.
 <br>
 <table style="margin-bottom:20px;margin-top:20px">
@@ -86,6 +88,8 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
 </tr>
 
 </table>
+
+<br>
 
 # ğŸŒ Connect With Me 
 
