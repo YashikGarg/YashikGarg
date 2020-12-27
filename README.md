@@ -2,13 +2,11 @@
 
  <img src="https://user-images.githubusercontent.com/71690338/103170047-3ef4e400-4867-11eb-9d21-30114f0f20db.png" width="100%" />
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="yashikgarg" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="yashikgarg" /> </p>
 
 Welcome to my page!
 
 I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chitkara University 🏛.
-
-<br>
 
 # 🛠⚙ Favorite Tech
 
@@ -88,8 +86,6 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science �
 </tr>
 
 </table>
-
-<br>
 
 # 🌍 Connect With Me 
 
