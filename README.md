@@ -96,7 +96,7 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
 <div>
  <br> 
 <img src="https://user-images.githubusercontent.com/71690338/103172853-7cb03780-487c-11eb-8dea-69a5ff03ab1a.gif" align="left" width="180" height="180" />
-
+<br>
 <ul  >
 
 <li  style="margin-bottom:16px;">
