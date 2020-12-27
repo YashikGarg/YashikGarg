@@ -2,15 +2,18 @@
 
  <img src="https://user-images.githubusercontent.com/71690338/103170047-3ef4e400-4867-11eb-9d21-30114f0f20db.png" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="yashikgarg" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="yashikgarg" /> </p>-->
 
 Welcome to my page!
 
 I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Chitkara University 🏛.
 
-# 🛠⚙ Favorite Tech
-> Tools, languages, and other things that I like to work with.
+<br>
 
+# 🛠⚙ Favorite Tech
+
+> Tools, languages, and other things that I like to work with.
+<br>
 <table style="margin-bottom:20px;margin-top:20px">
 
   <tr>
@@ -86,10 +89,12 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science �
 
 </table>
 
+<br>
+
 # 🌍 Connect With Me 
 
 <div>
-  
+ <br> 
 <img src="https://user-images.githubusercontent.com/71690338/103172853-7cb03780-487c-11eb-8dea-69a5ff03ab1a.gif" align="left" width="200" height="200" />
 
 <ul  >
@@ -112,9 +117,12 @@ Check out my social media <a href="https://instagram.com/https://www.instagram.c
 
 </ul>
 <br>
+<br>
 </div>
 
 # 📈 GitHub Stats
+
+<br>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikgarg&show_icons=true&locale=en&layout=compact" alt="yashikgarg" align="center"  width="360px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikgarg&show_icons=true&locale=en" alt="yashikgarg"align="center"  width="430px"/>
