@@ -118,6 +118,7 @@ Check out my social media <a href="https://instagram.com/https://www.instagram.c
 </ul>
 <br>
 <br>
+<br>
 </div>
 
 # 📈 GitHub Stats
