@@ -124,6 +124,6 @@ Check out my social media <a href="https://www.instagram.com/yashik_garg18/" tar
 
 <br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikgarg&show_icons=true&locale=en&layout=compact" alt="yashikgarg" align="center"  width="360px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikgarg&show_icons=true&locale=en" alt="yashikgarg"align="center"  width="430px"/>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikgarg&show_icons=true&locale=en&layout=compact" alt="yashikgarg" align="center"  width="360px" style="background-color:transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikgarg&show_icons=true&locale=en" alt="yashikgarg"align="center"  width="430px" style="background-color:transparent"/>
 </div>
