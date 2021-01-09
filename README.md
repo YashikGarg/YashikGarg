@@ -50,7 +50,7 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
 <tr>
 
  <td align="center" width="96">
-      <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="48" height="48" style="background-color:transparent"/> </a>
+      <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="48" height="48" style="background-color:transparent"/> </a>
       <br>Android
     </td>
 <td align="center" width="96">
@@ -67,7 +67,7 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
     </td>    
 
    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48" style="background-color:transparent"/> </a>
+      <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="48" height="48" style="background-color:transparent"/> </a>
       <br>MySql
     </td>
     
@@ -77,7 +77,7 @@ I'm Yashik, I'm a third year student pursuing Bachelors's in Computer Science ğŸ
     </td>
 
 <td align="center" width="96">
-     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="background-color:transparent"/> </a>
+     <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background-color:transparent"/> </a>
       <br>&nbsp;&nbsp;PSQL&nbsp;&nbsp;
     </td> 
     
