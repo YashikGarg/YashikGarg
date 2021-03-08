@@ -106,7 +106,7 @@ Sharing updates on <a href="https://www.linkedin.com/in/yashik-garg-7022a81a5/" 
 <br>
 
 <li style="margin-bottom:17px">
-Do my coding practice here <a href="https://leetcode.com/user2065rj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/user2065rj/" height="30" width="40" /></a>
+Do my coding practice here <a href="https://leetcode.com/user2065rj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Yashik/" height="30" width="40" /></a>
 </li>
 
 <br>
